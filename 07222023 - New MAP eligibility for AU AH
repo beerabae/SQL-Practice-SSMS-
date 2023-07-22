@@ -1,0 +1,5 @@
+Topic : Parameter query for New MAP Eligibility. 
+Issue : Even though AU AH has AFSL but still can't use map -> probably because of program restriction
+Solution : Check which program (which level  ? - balance program or anyother level ? ) has restriction on New MAP parameter. 
+           Also, check what is the parameter ID of New MAP ? And understand what is parameter. what is the entity type and entity id. 
+          This is the most confusing thing for me so far. 
