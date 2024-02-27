@@ -1,0 +1,2 @@
+Entity Types/ Entity ID
+Explanation: As there are many tables that contains EntityID, we need to confirm the entity type of the entity ID. So we should join with other tables to understand the entity type.
